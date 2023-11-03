@@ -1,2 +1,2 @@
-# ResourcesToLearn-RTL-
-Sharing whatever I can
+# ResourcesToLearn-RTL
+I share whatever I can
